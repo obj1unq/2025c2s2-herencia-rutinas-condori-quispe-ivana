@@ -3,10 +3,10 @@ import gimnasia.*
 describe "rutinas" {
 
 //Punto 1: rutinas
-//	const correrEnLaPlaya = // Una actividad de running con intensisdad 1.2
-//	const remarEnElDelta = // Una actividad de remo
-//	const remarEnCaminoRemeros = // Una actividad de remo comptetitivo
-//	const maratonBA = //Una maraton con intensidad 1.5
+	const correrEnLaPlaya = new Running(intensidad = 1.2) // Una actividad de running con intensisdad 1.2
+	//const remarEnElDelta = // Una actividad de remo
+	//const remarEnCaminoRemeros = // Una actividad de remo comptetitivo
+	//const maratonBA = //Una maraton con intensidad 1.5
 
 //Punto 2: personas
 	//const calamardo = //Una persona Sedentaria con peso 60 y tiempo de ejercicio 5
